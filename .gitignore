@@ -1,0 +1,17 @@
+# Исключаем большие CSV-файлы
+files/normal_perceptron_data.csv
+files/normal_perceptron_data_1.csv
+files/normal_perceptron_data_2.csv
+files/normal_perceptron_data_3.csv
+files/normal_perceptron_data_4.csv
+files/normal_perceptron_data_5.csv
+
+# Виртуальное окружение
+.venv/
+
+# Кеши
+__pycache__/
+*.pyc
+
+# PyCharm служебные файлы
+.idea/

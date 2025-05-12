@@ -1,0 +1,5 @@
+Accuracy: 87.08%, on test 1
+Accuracy: 88.02%, on test 2
+Accuracy: 85.35%, on test 3
+Accuracy: 88.50%, on test 4
+Accuracy: 89.31%, on test 5
